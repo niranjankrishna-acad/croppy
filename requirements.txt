@@ -1,0 +1,7 @@
+transformers
+gradio
+torch
+scikit-learn
+scipy
+matplotlib
+timm
